@@ -1,1 +1,6 @@
 https://xbsj7625.space/portal/page/download?client=linux
+
+
+sudo add-apt-repository ppa:greaterfire/trojan
+sudo apt-get update
+sudo apt-get install trojan
